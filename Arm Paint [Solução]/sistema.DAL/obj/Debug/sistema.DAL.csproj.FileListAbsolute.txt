@@ -1,0 +1,7 @@
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\bin\Debug\sistema.DAL.dll.config
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\bin\Debug\sistema.DAL.dll
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\bin\Debug\sistema.DAL.pdb
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\obj\Debug\sistema.DAL.csprojAssemblyReference.cache
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\obj\Debug\sistema.DAL.csproj.CoreCompileInputs.cache
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\obj\Debug\sistema.DAL.dll
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\sistema.DAL\obj\Debug\sistema.DAL.pdb

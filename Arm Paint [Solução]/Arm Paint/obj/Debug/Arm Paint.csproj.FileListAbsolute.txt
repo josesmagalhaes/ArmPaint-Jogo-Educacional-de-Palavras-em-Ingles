@@ -1,0 +1,16 @@
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\bin\Debug\Arm Paint.exe.config
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\bin\Debug\Arm Paint.exe
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\bin\Debug\Arm Paint.pdb
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.csprojAssemblyReference.cache
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm_Paint.Properties.Resources.resources
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.csproj.GenerateResource.cache
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.csproj.CoreCompileInputs.cache
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.exe
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.pdb
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\bin\Debug\sistema.DAL.dll
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\bin\Debug\sistema.DAL.pdb
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\bin\Debug\sistema.DAL.dll.config
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.csproj.CopyComplete
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm_Paint.Form1.resources
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm_Paint.frm_resultados.resources
+E:\OSIRIS\PROJETOS DE PROGRAMAÇÃO\C#\Arm Paint\Arm Paint\Arm Paint\obj\Debug\Arm Paint.TrustInfo.xml

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.875" name="sistema">
+  <DataContextMoniker Name="/sistemaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="eddf035c-6cb0-4f5f-bb74-93f3448e2917" absoluteBounds="5.25, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/sistemaDataContext/tb_pontos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="621c41cb-2078-4c95-8099-560c191760b8" absoluteBounds="5.265, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28117c21-c2de-46dc-bdcc-2edefaf75054" absoluteBounds="2, 0.5, 2, 9.0783512369791648">
+      <DataClassMoniker Name="/sistemaDataContext/tb_palavras" />
+      <nestedChildShapes>
+        <elementListCompartment Id="252368d1-a41f-452f-b0e5-468a07b83137" absoluteBounds="2.015, 0.96, 1.9700000000000002, 8.5183512369791661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sistema_arm_paint" Class="sistemaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-M8FGI40\SQLEXPRESS;Initial Catalog=sistema_arm_paint;Integrated Security=True" SettingsObjectName="sistema.DAL.Properties.Settings" SettingsPropertyName="sistema_arm_paintConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_pontos" Member="tb_pontos">
+    <Type Name="tb_pontos">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="pontos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_palavras" Member="tb_palavras">
+    <Type Name="tb_palavras">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="palavra1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra3" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra4" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra5" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra6" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra7" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra8" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra9" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra10" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra11" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra12" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra13" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra14" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra15" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra16" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra17" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra18" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra19" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="palavra20" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao3" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao4" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao5" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao6" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao7" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao8" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao9" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao10" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao11" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao12" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao13" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao14" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao15" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao16" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao17" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao18" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao19" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="traducao20" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="resposta" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="sequencia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
