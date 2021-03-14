@@ -1,3 +1,7 @@
+![LOGO ARM VETORIZADO](https://user-images.githubusercontent.com/31749933/111072824-0d310800-84bb-11eb-91fa-8dee639dce53.jpg)
+
+
+
 # ArmPaint-Jogo-Educacional-de-Palavras-em-Ingles
 Aprender um idioma não é apenas aprender gramática e memorizar verbos irregulares, e isso é especialmente verdade para crianças pequenas. Sabe-se que as crianças podem aprender um idioma implicitamente, ou seja, ouvindo-o e, mais importante, usando-o em situações reais.
 
